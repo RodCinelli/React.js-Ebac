@@ -9,7 +9,7 @@ function App() {
 
   return(
     <>
-      <Perfil nome="Rodrigo Cinelli" endereco="https://github.com/RodCinelli.png" />
+      <Perfil nomeUsuario="RodCinelli" />
       <ReposList />
 
       {/* {formularioEstaVisivel && (
